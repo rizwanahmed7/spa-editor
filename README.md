@@ -10,7 +10,7 @@ This project is a single-page application (SPA) editor built using React, TypeSc
 
 1. ##### Clone this repository to your local machine.
 
-   Link of repo: `https://github.com/Hafizahmed2/spa-editor`
+   Link of repo: `https://github.com/rizwanahmed7/spa-editor.git`
 2. ##### Install dependencies
     `npm install`
 3. #### Start the development server
